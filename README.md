@@ -18,4 +18,4 @@ Learn to implement the MVC design pattern. Consider the concept of Swift structs
 
 Научится реализовывать шаблон проектирования MVC. Рассмотреть концепцию структур Swift и использовать ее для отделения модели от контроллера.
 
-<img src="https://user-images.githubusercontent.com/64682381/150465505-fd25784d-dd96-44b7-871e-8eba741af88e.png" width="300">
+<img src="https://user-images.githubusercontent.com/64682381/150473102-a24fbcb2-a44d-400a-b3db-e355ff5e8075.png" width="300">
